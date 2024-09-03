@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas Vispro Jibrael", "Tugas Vispro Jibrael\Tugas Vispro Jibrael.csproj", "{DB15171F-A250-457D-96EB-E66E373FDAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB15171F-A250-457D-96EB-E66E373FDAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB15171F-A250-457D-96EB-E66E373FDAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB15171F-A250-457D-96EB-E66E373FDAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB15171F-A250-457D-96EB-E66E373FDAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C148EE63-BD77-4516-812C-9219B474BB83}
+	EndGlobalSection
+EndGlobal
